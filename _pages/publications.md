@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications, Dissertations, Notes"
+title: "Publications, Dissertations"
 permalink: /publications/
 author_profile: true
 ---
