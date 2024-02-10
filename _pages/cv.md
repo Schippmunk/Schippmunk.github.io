@@ -19,16 +19,23 @@ Education
 
 Work experience
 ======
-* Software AG, 2013
+* [Software AG](https://www.softwareag.com/), 2013
   * Internship
 
-* DICOS GmbH Kommunikationssysteme, 2017-2019
+* [DICOS GmbH Kommunikationssysteme](https://www.dicos.de/), 2017-2019
   * Working Student
   * Web Development
 
-* deecoob GmbH, 2021-2022
+* [deecoob GmbH](https://www.deecoob.com/), 2021-2022
   * Data Scientist
   * Natural Language Processing
+
+Scholarships and Distinctions
+======
+* 2011, 2019: Award for Exceptional Athletic Achievements (From the City of Darmstadt)
+* 2016 -- 2017: [Clara Abbott Scholarship](https://clara.abbott.com/)
+* 2016 -- 2017: [DAAD PROMOS Scholarship](https://www.daad.de/de/infos-services-fuer-hochschulen/weiterfuehrende-infos-zu-daad-foerderprogrammen/promos/)
+
 
 Publications
 ======
@@ -51,6 +58,6 @@ Teaching
 Extracurricular Activities
 ======
 * Trampoline Coach
-  * 2012-2020: TV 1876 Eberstadt e.V. (Youth Guarantor in 2016)
-  * 2016-2017: Circus Projekt Waldoni e.V.
-  * 2023-2024: University of Nottingham Trampolining Society - Performance and Development Officer
+  * 2012 -- 2020: TV 1876 Eberstadt e.V. (Youth Guarantor in 2016)
+  * 2016 -- 2017: Circus Projekt Waldoni e.V.
+  * 2023 -- 2024: University of Nottingham Trampolining Society - Performance and Development Officer

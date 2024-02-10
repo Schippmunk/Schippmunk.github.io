@@ -7,6 +7,7 @@ date: 2018-03-15
 venue:
 paperurl: 
 citation:
+info: ""
 ---
 
 [Download PDF](/files/bachelor.pdf)
