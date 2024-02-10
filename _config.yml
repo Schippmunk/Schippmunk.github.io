@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Johannes Schipp von Branitz"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Johannes Schipp von Branitz"
 description              : &description "personal description"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Johannes Schipp von Branitz"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : # "Your biography for the left-hand sidebar"
   location         : "Nottingham, United Kingdom"
   employer         :
   pubmed           : 
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
