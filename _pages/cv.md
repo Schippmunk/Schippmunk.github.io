@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. Mathematics Bilingual, Minor in Computer Science, Darmstadt University of Technology, 2014-2018
+* Study Abroad, University of Saskatchewan, 2016-2017
+* M.Sc. Mathematics, Minor in Computer Science, Darmstadt University of Technology, 2018-2020
+* Study Abroad, Instituto Superior Técnico, 2018-2019
+* Ph.D Computer Science, University of Nottingham, 2022-2026 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Software AG, 2013
+  * Internship
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* DICOS GmbH Kommunikationssysteme, 2017-2019
+  * Working Student
+  * Web Development
+
+* deecoob GmbH, 2021-2022
+  * Data Scientist
+  * Natural Language Processing
 
 Publications
 ======
@@ -54,6 +48,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Extracurricular Activities
 ======
-* Currently signed in to 43 different slack teams
+* Trampoline Coach
+  * 2012-2020: TV 1876 Eberstadt e.V. (Youth Guarantor in 2016)
+  * 2016-2017: Circus Projekt Waldoni e.V.
+  * 2023-2024: University of Nottingham Trampolining Society - Performance and Development Officer
