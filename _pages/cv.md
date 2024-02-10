@@ -36,24 +36,6 @@ Scholarships and Distinctions
 * 2016 -- 2017: [Clara Abbott Scholarship](https://clara.abbott.com/)
 * 2016 -- 2017: [DAAD PROMOS Scholarship](https://www.daad.de/de/infos-services-fuer-hochschulen/weiterfuehrende-infos-zu-daad-foerderprogrammen/promos/)
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Extracurricular Activities
 ======
