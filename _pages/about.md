@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computer Science at the [University of Nottingham](https://www.nottingham.ac.uk/).
+I am a PhD student in Computer Science at the [University of Nottingham](https://www.nottingham.ac.uk/) supervised by [Ulrik Buchholtz](www.ulrikbuchholtz.dk) and [Nicolai Kraused](http://www.cs.nott.ac.uk/~psznk/).
 
-This site is still under construction.
+My research focuses on homotopy type theory, geometric type theory and related topics.
