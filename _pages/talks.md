@@ -4,6 +4,7 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+* Primitive Recursive Dependent Type Theory and Synthetic Mathematics at Logic Seminar Stockholm [[slides](/files/prdtt_stockholm_slides.pdf)] 
 * Propositional Geometric Type Theory [HoTT/UF 2025](https://hott-uf.github.io/2025/) [[slides](/files/pgtt-hott-uf-slides.pdf)] [[abstract](/files/pgtt-hott-uf-abstract.pdf)]
 * An Informal Introduction to HoTT via Synthetic Homotopy Theory [EPFL 2025](https://www.epfl.ch/labs/hessbellwald-lab/3141-2/) [[slides](/files/hott_epfl_slides.pdf)]
 * Primitive Recursive Dependent Type Theory at [LICS 2024](https://lics.siglog.org/lics24/index.php) [[slides](/files/prdtt_lics_slides.pdf)]
